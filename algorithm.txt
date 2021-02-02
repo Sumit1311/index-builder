@@ -1,0 +1,8 @@
+1. Take input text line by line and divide into separate words
+InputReader
+2. Iterate every word check if it exists in the unordered map if yes, add the current line to existing word, if not insert new word
+WordInserter
+3. Print all the words sorted alphabetically with lines numbers against them
+IndexPrinter
+
+<word> : <vector of line numbers>
